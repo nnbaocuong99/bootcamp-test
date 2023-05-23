@@ -1,0 +1,17 @@
+{
+    "name": "ABC",
+    "contact": 12312321,
+    "address": "House 1, Street 123",
+    "active_user": true,
+    "address_2": null,
+    "cars": {
+        "model": [
+            "BMW",
+            "HONDA"
+        ]
+    },
+    "colors": [
+        "RED",
+        "GREEN"
+    ]
+}
